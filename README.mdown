@@ -1,0 +1,25 @@
+## BIP 70 Example 
+
+This is an example of a BIP 70 implementation.
+The server (server.rb) is implemented in ruby and sinatra as web framwork.
+The client (wallet.java) is an example using the [bitcoinj](http://bitcoinj.org) bitcoin implementation.
+
+## Usage
+
+1. create your keys and ideally get a signed certificate
+2. run `ruby server.rb`
+3. open your wallet with the bitcoin URL: [bitcoin:1D3PknG4Lw1gFuJ9SYenA7pboF9gtXtdcD?amount=100000&r=http://localhost:4567/invoice](pay now)
+
+please not that the wallet.java is only part of the wallet implementation that is relevant to using the payment request protocol. 
+
+## Questions?
+
+please comment on the blog post on: michaelbumann.com 
+or send an email to hello@michaelbumann.com
+
+## Contact
+
+Michael Bumann
+hello@michaelbumann.com
+
+[http://michaelbumann.com](michaelbumann.com)
