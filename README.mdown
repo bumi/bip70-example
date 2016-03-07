@@ -8,7 +8,7 @@ The client (wallet.java) is an example using the [bitcoinj](http://bitcoinj.org)
 
 1. create your keys and ideally get a signed certificate
 2. run `ruby server.rb`
-3. open your wallet with the bitcoin URL: [bitcoin:1D3PknG4Lw1gFuJ9SYenA7pboF9gtXtdcD?amount=100000&r=http://localhost:4567/invoice](pay now)
+3. open your wallet with the bitcoin URL: [pay now](bitcoin:1D3PknG4Lw1gFuJ9SYenA7pboF9gtXtdcD?amount=100000&r=http://localhost:4567/invoice)
 
 please not that the wallet.java is only part of the wallet implementation that is relevant to using the payment request protocol. 
 
@@ -22,4 +22,4 @@ or send an email to hello@michaelbumann.com
 Michael Bumann
 hello@michaelbumann.com
 
-[http://michaelbumann.com](michaelbumann.com)
+[michaelbumann.com](http://michaelbumann.com)
