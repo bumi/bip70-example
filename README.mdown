@@ -14,7 +14,7 @@ please not that the wallet.java is only part of the wallet implementation that i
 
 ## Questions?
 
-please comment on the blog post on: michaelbumann.com 
+please comment on the blog post on: [michaelbumann.com/post/140...](http://michaelbumann.com/post/140637377117/example-clientserver-implementing-of-the-bitcoin)
 or send an email to hello@michaelbumann.com
 
 ## Contact
